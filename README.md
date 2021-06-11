@@ -1,51 +1,30 @@
-## Developer Portfolio Landing Page Template
+## Cool Features from Around the Web
 
 ### Introduction
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+Feature | Source
+------------------
+Embed Tweets from Twitter Feed | https://publish.twitter.com/
 
-<img src="images/demo.gif?raw=true"/>
 
-### Installation
+### Twitter Embeds
+
+<blockquote class="twitter-tweet" data-lang="en" data-theme="light"><p lang="en" dir="ltr">Made a bit of changes to make a coming soon page of Twide .sk even more descriptive and highlight product features. 🥳<br><br>I&#39;m considering 🤔 adding a feature to be able to subscribe via Twitter account directly.<a href="https://twitter.com/hashtag/BuildInPublic?src=hash&amp;ref_src=twsrc%5Etfw">#BuildInPublic</a> <a href="https://twitter.com/hashtag/SaaS?src=hash&amp;ref_src=twsrc%5Etfw">#SaaS</a> <a href="https://t.co/bw6Qeehpzx">pic.twitter.com/bw6Qeehpzx</a></p>&mdash; Csaba Kissi ⚡ (@csaba_kissi) <a href="https://twitter.com/csaba_kissi/status/1374310091550306316?ref_src=twsrc%5Etfw">March 23, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+**Work in Progress**
 
 See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
 ___
 
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Roadmap
-
-See the [open issues](https://github.com/evanca/machine-learning_optimizing-app-offers-with-starbucks/issues) for a list of proposed features (and known issues).
 ___
 
 ### References
 
 [1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
-<br>[2] Dummy photo via: https://pixabay.com/photos/man-male-adult-person-caucasian-1209494/ (Pixabay License)
-<br>[3] Dummy thumbnail image created by rawpixel.com: https://www.freepik.com/free-vector/set-elements-infographic_2807573.htm (Standard Freepik License)
+<br>[2] 
+<br>[3] 
